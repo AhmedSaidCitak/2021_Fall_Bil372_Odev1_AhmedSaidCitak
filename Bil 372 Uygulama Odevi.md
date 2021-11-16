@@ -1,4 +1,4 @@
-# Bil 372 Uygulama Odevi 
+#README
 
 Github'da bulunan dosyayı bilgisayarınızda bulunan Microsoft Visual Studio ile açıp üst tarafta bulunan ISS Express ile çalıştırabilirsiniz.
 
